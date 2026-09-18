@@ -2,8 +2,8 @@
   <rect width="1200" height="630" fill="#e9e3d5"/>
   <rect x="24" y="24" width="1152" height="582" fill="none" stroke="#a59b87" stroke-width="2"/>
   <text x="72" y="104" font-family="'Courier New', monospace" font-size="28" letter-spacing="8" fill="#5d574c">DESIGN RESEARCH REFERENCE</text>
-  <text x="68" y="238" font-family="Georgia, 'Times New Roman', serif" font-size="104" fill="#1d1c18">Notebook Design</text>
-  <text x="68" y="348" font-family="Georgia, 'Times New Roman', serif" font-size="104" fill="#1d1c18">Research</text>
+  <text x="68" y="238" font-family="Georgia, 'Times New Roman', serif" font-size="94" fill="#1d1c18">Notebook Design</text>
+  <text x="68" y="348" font-family="Georgia, 'Times New Roman', serif" font-size="94" fill="#1d1c18">Research</text>
   <line x1="72" y1="392" x2="372" y2="392" stroke="#8b3e2f" stroke-width="6"/>
   <text x="72" y="448" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#1d1c18">A sourced design language for digital products</text>
   <text x="72" y="496" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#1d1c18">that feel like a brilliant maker&#8217;s working notebook.</text>
